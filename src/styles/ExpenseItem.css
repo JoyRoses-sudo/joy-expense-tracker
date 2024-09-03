@@ -1,0 +1,19 @@
+
+.expense-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.expense-item span {
+  font-weight: bold;
+}
+
+.expense-item strong {
+  color: #333;
+}
